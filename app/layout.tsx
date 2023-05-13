@@ -6,8 +6,8 @@ const inter = Inter({ subsets: ['latin'], weight: '400', variable: '--font-inter
 const bangers = Bangers({ weight: '400', variable: '--font-bangers', subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Viagugu',
-  description: 'Your next concert ticket is just a thousand euros and a kidney away...',
+  title: 'viagugu.com',
+  description: 'Your favorite artists are just a thousand euros... and a kidney away...',
 }
 
 export default function RootLayout({
